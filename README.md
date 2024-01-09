@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ahwrist
-- 👀 I’m interested in Dashboard Development, Data Science, and Machine Learning.
-- 🌱 I’m currently building Tableau Dashboards, Wordpress sites, and Data Science/Analytics models in Python for a Fortune 100 company.
-- 💞️ I’m looking to collaborate on any opportunities where I can grow my skills as a Freelance Developer, Data Scientist, or Data Engineer.
+- 👋 Hi, I’m Andrew
+- 👀 I’m interested in anything AI/Machine Learning.
+- 🌱 I’m currently building sophisticated Machine Learning products for a Fortune 100 company and external projects I find interesting.
+- 💞️ I’m looking to collaborate on any opportunities where I can grow my skills as an AI/Machine Learning Engineer or help junior developers on their development in the awesome field of Artificial Intelligence.
 - 📫 You can reach me by email at andrew.wrist@gmail.com.
 
 <!---
