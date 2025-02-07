@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew
-- 👀 I’m interested in anything AI/Machine Learning.
-- 🌱 I’m currently building sophisticated Machine Learning products for a Fortune 100 company and external projects I find interesting.
+- 👀 I’m interested in anything AI/Machine Learning, Data Science/Analytics, and Data Engineering.
+- 🌱 I’m currently building sophisticated AI, Dashboards, and ETL products for a Fortune 100 company and external projects I find interesting.
 - 💞️ I’m looking to collaborate on any opportunities where I can grow my skills as an AI/Machine Learning Engineer or help junior developers on their development in the awesome field of Artificial Intelligence.
 - 📫 You can reach me by email at andrew.wrist@gmail.com.
 
