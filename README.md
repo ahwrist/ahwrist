@@ -1,23 +1,25 @@
-Hi there, I'm Andrew 👋
-Welcome to my GitHub! I'm an engineer and tech leader based in Boulder, CO, with a background in aerospace engineering and a deep focus on Artificial Intelligence.
+# Hi, I'm Andrew 👋
 
-🚀 What I'm Up To
-🔭 Currently working on: Leading the AI Adoption Analytics team at Lockheed Martin, where I build sophisticated AI, research, dashboards, and ETL products.
+Engineer, AI strategist, and builder — driven by how artificial intelligence reshapes work, policy, and society.
 
-🌱 Currently exploring: The cutting edge of agentic AI platforms, specifically designing tools for recruiting, scientific research, and AI policy.
+## What I'm Building
 
-🤝 Looking to collaborate on: Innovative AI/ML engineering projects, building new AI-powered tools, or mentoring junior developers navigating this awesome field.
+- **AI Adoption at Scale** — Leading analytics for AI integration across a 120K+ person aerospace enterprise at Lockheed Martin, measuring what actually moves the needle on adoption.
+- **Agentic AI Products** — Designing autonomous AI systems for recruiting, compliance monitoring, and geospatial risk assessment.
+- **AI Policy & Societal Impact** — Exploring the intersection of frontier AI capabilities, workforce transformation, and responsible deployment in regulated industries.
 
-🛠️ Core Interests & Expertise
-Artificial Intelligence & Machine Learning: LLMs, agentic workflows, societal impacts, and AI policy.
+## What I Care About
 
-Data Science & Analytics: Turning complex data into actionable insights.
+I'm most energized by the questions AI forces us to ask: How do we measure real adoption — not just deployment? What does responsible AI look like in defense, finance, and hiring? How do we build systems that augment human judgment rather than replace it?
 
-Data Engineering: Building robust ETL pipelines.
+## Core Toolkit
 
-⚡ Outside the Screen
-When I'm not writing code, analyzing data, or digging into AI policy, you can usually find me out on the trails. I'm a passionate ultra-runner, cyclist, and endurance coach. I love applying the same data-driven mindset I use in engineering to athletic performance and human wellness.
+Python · Full-Stack AI Agents · LLMs & Agentic Workflows · Data Engineering & ETL · Measurement Frameworks · AI Policy Analysis
+
+## Beyond the Terminal
+
+Ultra-runner, cyclist, and endurance coach. I bring the same quantitative rigor to training and human performance that I bring to engineering — because the best systems, biological or digital, are built on good data.
+
 <!---
 ahwrist/ahwrist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
