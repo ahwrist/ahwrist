@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋
 
-Engineer, AI strategist, and builder — driven by how artificial intelligence reshapes work, policy, and society.
+Program Manager, Engineer, AI strategist, Researcher, and builder — driven by how artificial intelligence reshapes work, policy, and society.
 
 ## What I'm Building
 
