@@ -3,7 +3,7 @@ AI Research Engineer building systems that measure — and verify — their own 
 
 ## What I'm Building
 - **`verified-analytics-agent`** — A governed, self-evaluating analytics agent with a built-in trust-and-verification layer. My take on what it looks like when an AI system is accountable for the answers it produces, not just fluent.
-- **AI Adoption at Scale** — Leading adoption analytics for AI integration across a 120K+ person aerospace enterprise at Lockheed Martin, including the Engagement Quality Index — a metric built to measure *real* usage, not just seat counts.
+- **AI Adoption at Scale** — Leading adoption analytics for AI integration across a 100K+ person enterprise and its subsidiary startup, including the Engagement Quality Index — a metric built to measure *real* usage, not just seat counts.
 - **Evaluation & Trust Harnesses** — Experimenting with LLM-judge meta-evaluation and over-reliance testing: measuring not just whether a model is right, but whether the humans in the loop can tell when it *isn't*.
 
 ## What I Care About
