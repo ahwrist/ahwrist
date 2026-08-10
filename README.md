@@ -1,5 +1,5 @@
 # Hi, I'm Andrew 👋
-AI Research Engineer building systems that measure — and verify — their own trustworthiness. I work at the intersection of **evaluation, analytics engineering, and human–AI reliability**, mostly in high-stakes, regulated domains where "probably correct" isn't good enough.
+AI Research Engineer building systems that measure and verify their own trustworthiness. I work at the intersection of **evaluation, analytics engineering, and human–AI reliability**, mostly in high-stakes, regulated domains where "probably correct" isn't good enough.
 
 ## What I'm Building
 - **`verified-analytics-agent`** — A governed, self-evaluating analytics agent with a built-in trust-and-verification layer. My take on what it looks like when an AI system is accountable for the answers it produces, not just fluent.
